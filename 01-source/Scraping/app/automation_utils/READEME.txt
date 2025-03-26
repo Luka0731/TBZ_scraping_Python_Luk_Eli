@@ -1,0 +1,8 @@
+
+In this Direction is collection of helper functions for common tasks such as:
+- Input/output operations (console inputs, file handling)
+- Data formatting and conversion
+- Basic calculations and validations
+
+The purpose of this class is to centralize repetitive code patterns
+and enable reusability across different projects.

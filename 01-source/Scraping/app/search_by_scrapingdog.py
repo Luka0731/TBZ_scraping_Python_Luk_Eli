@@ -1,4 +1,5 @@
 import requests
+
 api_key = "67d9426d3d477a41138f6406"
 url = "https://api.scrapingdog.com/google/"
 params = {
