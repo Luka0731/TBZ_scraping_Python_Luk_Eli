@@ -1,6 +1,7 @@
 from enum import Enum
 
 
+
 class ConsoleStyle(Enum):
     """ANSI escape codes for console styling"""
 

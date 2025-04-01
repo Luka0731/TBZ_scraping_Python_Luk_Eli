@@ -1,11 +1,15 @@
 from typing import *
 from app.automation_utils.output import Output
 
+
+
 class Comparable(Protocol):
     def __lt__(self, other: Any) -> bool: ...
     def __gt__(self, other: Any) -> bool: ...
 
 T = TypeVar('T', bound=Comparable)
+
+
 
 class Input:
     """A utility class for handling various types of user input with validation."""

@@ -1,5 +1,7 @@
 from app.automation_utils.console_style import ConsoleStyle
 
+
+
 class Output:
 
     @staticmethod
