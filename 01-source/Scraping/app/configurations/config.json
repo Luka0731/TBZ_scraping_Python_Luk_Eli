@@ -1,6 +1,6 @@
 {
     "chromedriver_path": "C:/Users/lukag/Downloads/chromedriver-win64/chromedriver.exe",
     "output_path": "C:/Users/lukag/Downloads",
-    "scraper_engine": 2,
+    "scraper_engine": 1,
     "scrapingdog_api_key": "67d9426d3d477a41138f6406"
 }
